@@ -78,7 +78,7 @@ res?console.log(`A task with id 1 is updated`):console.log(`Id no found`);
 var res=todolist.markAsCompleted(3);
 res?console.log(`A task with id 3 is moved`):console.log(`Id no found`);
 var res=todolist.markAsCompleted(1);
-res?console.log(`A task with id 3 is moved`):console.log(`Id no found`);
+res?console.log(`A task with id 1 is moved`):console.log(`Id no found`);
 console.log(Todo);
 console.log(Completed);
 
