@@ -31,6 +31,7 @@ return obj;
 
 ```JavaScript
    class Vector{
+      var x,y;
        constructor(x,y)
        {
            this.x=x;
